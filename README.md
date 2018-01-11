@@ -32,7 +32,7 @@ information or see http://opensource.org/licenses/MIT.
 
 #### Linux
 
-`./knucklescoin-qt` will run on Ubuntu. For other distributions it must be recompiled from source. To compile and run:
+`./knucklescoin-qt` will run on Ubuntu. For other distributions it must be recompiled from source make sure you have installed all the dependencies, these can be found [here](https://pastebin.com/raw/s5bEu7cm) and copied into the Terminal. To compile and run:
 
     cd src; make -f makefile.unix
 
