@@ -4,7 +4,9 @@ Knucklescoin
 https://www.knucklescoin.robbiesymonds.me
 
 Copyright (c) 2009-2014 Bitcoin Developers
+
 Copyright (c) 2011-2014 Litecoin Developers
+
 Copyright (c) 2017-2018 KnucklesCoin Developers
 
 What is Knucklescoin?
