@@ -28,6 +28,28 @@ License
 Knucklescoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
+### Usage
+
+#### Linux
+
+`./knucklescoin-qt` will run on Ubuntu. For other distributions it must be recompiled from source. To compile and run:
+
+    cd src; make -f makefile.unix
+
+Navigate out of `src` and run:
+
+    qmake
+    make
+    ./knucklescoin-qt
+
+#### Windows
+
+Coming soon.
+
+#### OSX
+
+Coming soon.
+
 ### Testing
 
 Developers are strongly encouraged to write unit tests for new code, and to
