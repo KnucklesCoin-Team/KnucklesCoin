@@ -40,11 +40,11 @@ information or see http://opensource.org/licenses/MIT.
 
 #### Windows
 
-Coming soon.
+Coming soon. Final stage of packaging. Expected release 12th January 2018.
 
 #### OSX
 
-Coming soon.
+Coming soon. Compiling errors preventing build, developers welcome to try, will be released if successful.
 
 ### Testing
 
