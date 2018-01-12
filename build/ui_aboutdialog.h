@@ -91,7 +91,8 @@ public:
         copyrightLabel->setObjectName(QString::fromUtf8("copyrightLabel"));
         copyrightLabel->setCursor(QCursor(Qt::IBeamCursor));
         copyrightLabel->setText(QString::fromUtf8("Copyright &copy; 2009-YYYY The Bitcoin developers\n"
-"Copyright &copy; 2011-YYYY The Knucklescoin developers"));
+"Copyright &copy; 2011-YYYY The Litecoin developers\n"
+"Copyright &copy; 2018 The KnucklesCoin developers"));
         copyrightLabel->setTextFormat(Qt::RichText);
         copyrightLabel->setTextInteractionFlags(Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse);
 
