@@ -16,6 +16,8 @@ Copyright (c) 2017-2018 KnucklesCoin Developers
 What is Knucklescoin?
 ----------------
 
+Check out the subreddit, [https://www.reddit.com/r/KnucklesCoin](https://www.reddit.com/r/KnucklesCoin)
+
 Knucklescoin is a alternative version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
