@@ -2240,8 +2240,8 @@ Address: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 83333 or testnet: 183333)</source>
-        <translation>Εισερχόμενες συνδέσεις στη θύρα &lt;port&gt; (προεπιλογή: 83333 ή στο testnet: 183333)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 1333 or testnet: 11333)</source>
+        <translation>Εισερχόμενες συνδέσεις στη θύρα &lt;port&gt; (προεπιλογή: 1333 ή στο testnet: 11333)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2275,8 +2275,8 @@ Address: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 83332 or testnet: 183332)</source>
-        <translation>Εισερχόμενες συνδέσεις JSON-RPC στη θύρα &lt;port&gt; (προεπιλογή: 83332 or testnet: 183332)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 13332 or testnet: 113332)</source>
+        <translation>Εισερχόμενες συνδέσεις JSON-RPC στη θύρα &lt;port&gt; (προεπιλογή: 13332 or testnet: 113332)</translation>
     </message>
     <message>
         <location line="+37"/>
