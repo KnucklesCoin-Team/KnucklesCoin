@@ -1,5 +1,11 @@
 Knucklescoin
 ================================
+	
+![Downloads](	https://img.shields.io/github/downloads/KnucklesCoin-Team/KnucklesCoin/total.svg)
+![Version](https://img.shields.io/github/tag/KnucklesCoin-Team/KnucklesCoin.svg)
+![Release Date](	https://img.shields.io/github/release-date/KnucklesCoin-Team/KnucklesCoin.svg)
+![Code Size](	https://img.shields.io/github/languages/code-size/KnucklesCoin-Team/KnucklesCoin.svg)
+![Languages Count](	https://img.shields.io/github/languages/count/KnucklesCoin-Team/KnucklesCoin.svg)
 
 Copyright (c) 2009-2014 Bitcoin Developers
 
@@ -9,6 +15,8 @@ Copyright (c) 2017-2018 KnucklesCoin Developers
 
 What is Knucklescoin?
 ----------------
+
+Check out the subreddit, [https://www.reddit.com/r/KnucklesCoin](https://www.reddit.com/r/KnucklesCoin)
 
 Knucklescoin is a alternative version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
