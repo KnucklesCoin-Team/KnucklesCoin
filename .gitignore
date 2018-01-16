@@ -1,0 +1,34 @@
+src/*.exe
+src/knucklescoin
+src/knucklescoind
+src/test_knucklescoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.knucklescoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+knucklescoin-qt
+KnucklesCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+knucklescoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
